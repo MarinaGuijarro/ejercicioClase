@@ -10,7 +10,7 @@ namespace Prueba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tu si que eres un salao");
+            Console.WriteLine("guapa marina");
             Console.ReadLine();
         }
     }
